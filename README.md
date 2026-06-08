@@ -17,10 +17,4 @@ Nagarvaani tracks civic complaints through three datasets — **Issues** (ticket
 
 ---
 
-## 📄 License
-
-[MIT](LICENSE)
-
----
-
-*Built with ❤️ to make cities better, one report at a time.*
+*Built with people engagement to make cities better, one report at a time.*
