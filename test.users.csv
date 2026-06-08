@@ -1,0 +1,2 @@
+_id,mobileNumber,__v,avatar,bio,createdAt,creditPoints,isMobileVerified,isVerified,mobileOTP,mobileOTPExpiry,otp,otpExpiry,points,reportsSubmitted,city,email,name,password
+6a1afc00ac0eddae82edeeb8,9569854644,0,,,2026-05-30T15:02:24.114Z,0,true,true,,,,,40,4,Greater Noida,ss2654001@gmail.com,Siddharth Srivastav,$2b$10$YKmovDdXDHSRh1CSDipOZe5d93QWZVb/Lz.FmDnkZLUhctQPzaVRa
